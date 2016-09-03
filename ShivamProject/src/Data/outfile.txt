@@ -1,0 +1,4 @@
+Test.size=1
+C:\Users\shivaroy\Documents\Capture.jpg:CARS
+s.line[]=C:\Users\shivaroy\Documents\Capture.jpg
+brk=1length=1
